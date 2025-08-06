@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@cosmjs/cosmwasm-stargate": "^0.34.0",
+    "@cosmjs/crypto": "^0.34.0",
+    "@cosmjs/proto-signing": "^0.34.0",
+    "@cosmjs/stargate": "^0.34.0",
+    "https-proxy-agent": "^5.0.0",
+    "node-fetch": "^3.0.0",
+    "ts-node": "^10.9.2"
+  }
+}
